@@ -1,0 +1,150 @@
+C:\Users\johny\OneDrive\Documents\Visual Studio 2022\projects\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe.config
+C:\Users\johny\OneDrive\Documents\Visual Studio 2022\projects\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe
+C:\Users\johny\OneDrive\Documents\Visual Studio 2022\projects\sudoku practice\sudoku practice\bin\Debug\sudoku practice.pdb
+C:\Users\johny\OneDrive\Documents\Visual Studio 2022\projects\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.AssemblyReference.cache
+C:\Users\johny\OneDrive\Documents\Visual Studio 2022\projects\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Properties.Resources.resources
+C:\Users\johny\OneDrive\Documents\Visual Studio 2022\projects\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.GenerateResource.cache
+C:\Users\johny\OneDrive\Documents\Visual Studio 2022\projects\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.CoreCompileInputs.cache
+C:\Users\johny\OneDrive\Documents\Visual Studio 2022\projects\sudoku practice\sudoku practice\obj\Debug\sudoku practice.exe
+C:\Users\johny\OneDrive\Documents\Visual Studio 2022\projects\sudoku practice\sudoku practice\obj\Debug\sudoku practice.pdb
+C:\Users\johny\OneDrive\Documents\Visual Studio 2022\projects\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.FrmSudoku.resources
+C:\Users\johny\OneDrive\Documents\Visual Studio 2022\projects\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Form2.resources
+D:\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.AssemblyReference.cache
+D:\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.FrmSudoku.resources
+D:\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Form2.resources
+D:\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Properties.Resources.resources
+D:\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.GenerateResource.cache
+D:\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.CoreCompileInputs.cache
+D:\sudoku practice\sudoku practice\obj\Debug\sudoku practice.exe
+D:\sudoku practice\sudoku practice\obj\Debug\sudoku practice.pdb
+D:\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe.config
+D:\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe
+D:\sudoku practice\sudoku practice\bin\Debug\sudoku practice.pdb
+N:\Computer Science\NEA work\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe.config
+N:\Computer Science\NEA work\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe
+N:\Computer Science\NEA work\sudoku practice\sudoku practice\bin\Debug\sudoku practice.pdb
+N:\Computer Science\NEA work\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.AssemblyReference.cache
+N:\Computer Science\NEA work\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.FrmSudoku.resources
+N:\Computer Science\NEA work\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Form2.resources
+N:\Computer Science\NEA work\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Properties.Resources.resources
+N:\Computer Science\NEA work\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.GenerateResource.cache
+N:\Computer Science\NEA work\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.CoreCompileInputs.cache
+N:\Computer Science\NEA work\sudoku practice\sudoku practice\obj\Debug\sudoku practice.exe
+N:\Computer Science\NEA work\sudoku practice\sudoku practice\obj\Debug\sudoku practice.pdb
+N:\Computer Science\NEA work\sudoku practice\sudoku practice\obj\Debug\sudoku practice.exe.config
+C:\Users\johny\Source\Repos\SudokuV9\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe.config
+C:\Users\johny\Source\Repos\SudokuV9\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe
+C:\Users\johny\Source\Repos\SudokuV9\sudoku practice\sudoku practice\bin\Debug\sudoku practice.pdb
+C:\Users\johny\Source\Repos\SudokuV9\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.AssemblyReference.cache
+C:\Users\johny\Source\Repos\SudokuV9\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.FrmSudoku.resources
+C:\Users\johny\Source\Repos\SudokuV9\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Form2.resources
+C:\Users\johny\Source\Repos\SudokuV9\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Properties.Resources.resources
+C:\Users\johny\Source\Repos\SudokuV9\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.GenerateResource.cache
+C:\Users\johny\Source\Repos\SudokuV9\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.CoreCompileInputs.cache
+C:\Users\johny\Source\Repos\SudokuV9\sudoku practice\sudoku practice\obj\Debug\sudoku practice.exe
+C:\Users\johny\Source\Repos\SudokuV9\sudoku practice\sudoku practice\obj\Debug\sudoku practice.pdb
+C:\Users\johny\OneDrive\Documents\Work\Computer Science\NEA\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe.config
+C:\Users\johny\OneDrive\Documents\Work\Computer Science\NEA\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe
+C:\Users\johny\OneDrive\Documents\Work\Computer Science\NEA\sudoku practice\sudoku practice\bin\Debug\sudoku practice.pdb
+C:\Users\johny\OneDrive\Documents\Work\Computer Science\NEA\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.AssemblyReference.cache
+C:\Users\johny\OneDrive\Documents\Work\Computer Science\NEA\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.FrmSudoku.resources
+C:\Users\johny\OneDrive\Documents\Work\Computer Science\NEA\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Form2.resources
+C:\Users\johny\OneDrive\Documents\Work\Computer Science\NEA\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Properties.Resources.resources
+C:\Users\johny\OneDrive\Documents\Work\Computer Science\NEA\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.GenerateResource.cache
+C:\Users\johny\OneDrive\Documents\Work\Computer Science\NEA\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.CoreCompileInputs.cache
+C:\Users\johny\OneDrive\Documents\Work\Computer Science\NEA\sudoku practice\sudoku practice\obj\Debug\sudoku practice.exe
+C:\Users\johny\OneDrive\Documents\Work\Computer Science\NEA\sudoku practice\sudoku practice\obj\Debug\sudoku practice.pdb
+C:\Users\0059670\Source\Repos\SudokuV10\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe.config
+C:\Users\0059670\Source\Repos\SudokuV10\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe
+C:\Users\0059670\Source\Repos\SudokuV10\sudoku practice\sudoku practice\bin\Debug\sudoku practice.pdb
+C:\Users\0059670\Source\Repos\SudokuV10\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.AssemblyReference.cache
+C:\Users\0059670\Source\Repos\SudokuV10\sudoku practice\sudoku practice\obj\Debug\sudoku practice.exe.config
+C:\Users\0059670\Source\Repos\SudokuV10\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.FrmSudoku.resources
+C:\Users\0059670\Source\Repos\SudokuV10\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Form2.resources
+C:\Users\0059670\Source\Repos\SudokuV10\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Properties.Resources.resources
+C:\Users\0059670\Source\Repos\SudokuV10\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.GenerateResource.cache
+C:\Users\0059670\Source\Repos\SudokuV10\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.CoreCompileInputs.cache
+C:\Users\0059670\Source\Repos\SudokuV10\sudoku practice\sudoku practice\obj\Debug\sudoku practice.exe
+C:\Users\0059670\Source\Repos\SudokuV10\sudoku practice\sudoku practice\obj\Debug\sudoku practice.pdb
+C:\Users\0059670\Source\Repos\SudokuV11\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe.config
+C:\Users\0059670\Source\Repos\SudokuV11\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe
+C:\Users\0059670\Source\Repos\SudokuV11\sudoku practice\sudoku practice\bin\Debug\sudoku practice.pdb
+C:\Users\0059670\Source\Repos\SudokuV11\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.AssemblyReference.cache
+C:\Users\0059670\Source\Repos\SudokuV11\sudoku practice\sudoku practice\obj\Debug\sudoku practice.exe.config
+C:\Users\0059670\Source\Repos\SudokuV11\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.FrmSudoku.resources
+C:\Users\0059670\Source\Repos\SudokuV11\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Form2.resources
+C:\Users\0059670\Source\Repos\SudokuV11\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Properties.Resources.resources
+C:\Users\0059670\Source\Repos\SudokuV11\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.GenerateResource.cache
+C:\Users\0059670\Source\Repos\SudokuV11\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.CoreCompileInputs.cache
+C:\Users\0059670\Source\Repos\SudokuV11\sudoku practice\sudoku practice\obj\Debug\sudoku practice.exe
+C:\Users\0059670\Source\Repos\SudokuV11\sudoku practice\sudoku practice\obj\Debug\sudoku practice.pdb
+C:\Users\johny\Source\Repos\SudokuV12\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe.config
+C:\Users\johny\Source\Repos\SudokuV12\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe
+C:\Users\johny\Source\Repos\SudokuV12\sudoku practice\sudoku practice\bin\Debug\sudoku practice.pdb
+C:\Users\johny\Source\Repos\SudokuV12\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.AssemblyReference.cache
+C:\Users\johny\Source\Repos\SudokuV12\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.FrmSudoku.resources
+C:\Users\johny\Source\Repos\SudokuV12\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Form2.resources
+C:\Users\johny\Source\Repos\SudokuV12\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Properties.Resources.resources
+C:\Users\johny\Source\Repos\SudokuV12\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.GenerateResource.cache
+C:\Users\johny\Source\Repos\SudokuV12\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.CoreCompileInputs.cache
+C:\Users\johny\Source\Repos\SudokuV12\sudoku practice\sudoku practice\obj\Debug\sudoku practice.exe
+C:\Users\johny\Source\Repos\SudokuV12\sudoku practice\sudoku practice\obj\Debug\sudoku practice.pdb
+C:\Users\0059670\Source\Repos\SudokuV13\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe.config
+C:\Users\0059670\Source\Repos\SudokuV13\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe
+C:\Users\0059670\Source\Repos\SudokuV13\sudoku practice\sudoku practice\bin\Debug\sudoku practice.pdb
+C:\Users\0059670\Source\Repos\SudokuV13\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.AssemblyReference.cache
+C:\Users\0059670\Source\Repos\SudokuV13\sudoku practice\sudoku practice\obj\Debug\sudoku practice.exe.config
+C:\Users\0059670\Source\Repos\SudokuV13\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.FrmSudoku.resources
+C:\Users\0059670\Source\Repos\SudokuV13\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Form2.resources
+C:\Users\0059670\Source\Repos\SudokuV13\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Properties.Resources.resources
+C:\Users\0059670\Source\Repos\SudokuV13\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.GenerateResource.cache
+C:\Users\0059670\Source\Repos\SudokuV13\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.CoreCompileInputs.cache
+C:\Users\0059670\Source\Repos\SudokuV13\sudoku practice\sudoku practice\obj\Debug\sudoku practice.exe
+C:\Users\0059670\Source\Repos\SudokuV13\sudoku practice\sudoku practice\obj\Debug\sudoku practice.pdb
+C:\Users\johny\Source\Repos\SudokuV14\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe.config
+C:\Users\johny\Source\Repos\SudokuV14\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe
+C:\Users\johny\Source\Repos\SudokuV14\sudoku practice\sudoku practice\bin\Debug\sudoku practice.pdb
+C:\Users\johny\Source\Repos\SudokuV14\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.AssemblyReference.cache
+C:\Users\johny\Source\Repos\SudokuV14\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.FrmSudoku.resources
+C:\Users\johny\Source\Repos\SudokuV14\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Form2.resources
+C:\Users\johny\Source\Repos\SudokuV14\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Properties.Resources.resources
+C:\Users\johny\Source\Repos\SudokuV14\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.GenerateResource.cache
+C:\Users\johny\Source\Repos\SudokuV14\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.CoreCompileInputs.cache
+C:\Users\johny\Source\Repos\SudokuV14\sudoku practice\sudoku practice\obj\Debug\sudoku practice.exe
+C:\Users\johny\Source\Repos\SudokuV14\sudoku practice\sudoku practice\obj\Debug\sudoku practice.pdb
+C:\Users\johny\Source\Repos\SudokuV14\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Form3.resources
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice2\sudoku practice\bin\Debug\sudoku practice.exe.config
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice2\sudoku practice\bin\Debug\sudoku practice.exe
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice2\sudoku practice\bin\Debug\sudoku practice.pdb
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice2\sudoku practice\obj\Debug\sudoku practice.csproj.AssemblyReference.cache
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice2\sudoku practice\obj\Debug\sudoku_practice.FrmSudoku.resources
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice2\sudoku practice\obj\Debug\sudoku_practice.Form2.resources
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice2\sudoku practice\obj\Debug\sudoku_practice.Form3.resources
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice2\sudoku practice\obj\Debug\sudoku_practice.Properties.Resources.resources
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice2\sudoku practice\obj\Debug\sudoku practice.csproj.GenerateResource.cache
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice2\sudoku practice\obj\Debug\sudoku practice.csproj.CoreCompileInputs.cache
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice2\sudoku practice\obj\Debug\sudoku practice.exe
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice2\sudoku practice\obj\Debug\sudoku practice.pdb
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe.config
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice\sudoku practice\bin\Debug\sudoku practice.pdb
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.AssemblyReference.cache
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.FrmSudoku.resources
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Form2.resources
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Properties.Resources.resources
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.GenerateResource.cache
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.CoreCompileInputs.cache
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice\sudoku practice\obj\Debug\sudoku practice.exe
+C:\Users\johny\OneDrive\Documents\Work\current work\sudoku practice\sudoku practice\obj\Debug\sudoku practice.pdb
+C:\Users\0059670\Source\Repos\SudokuV18\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe.config
+C:\Users\0059670\Source\Repos\SudokuV18\sudoku practice\sudoku practice\bin\Debug\sudoku practice.exe
+C:\Users\0059670\Source\Repos\SudokuV18\sudoku practice\sudoku practice\bin\Debug\sudoku practice.pdb
+C:\Users\0059670\Source\Repos\SudokuV18\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.AssemblyReference.cache
+C:\Users\0059670\Source\Repos\SudokuV18\sudoku practice\sudoku practice\obj\Debug\sudoku practice.exe.config
+C:\Users\0059670\Source\Repos\SudokuV18\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.FrmSudoku.resources
+C:\Users\0059670\Source\Repos\SudokuV18\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Form2.resources
+C:\Users\0059670\Source\Repos\SudokuV18\sudoku practice\sudoku practice\obj\Debug\sudoku_practice.Properties.Resources.resources
+C:\Users\0059670\Source\Repos\SudokuV18\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.GenerateResource.cache
+C:\Users\0059670\Source\Repos\SudokuV18\sudoku practice\sudoku practice\obj\Debug\sudoku practice.csproj.CoreCompileInputs.cache
+C:\Users\0059670\Source\Repos\SudokuV18\sudoku practice\sudoku practice\obj\Debug\sudoku practice.exe
+C:\Users\0059670\Source\Repos\SudokuV18\sudoku practice\sudoku practice\obj\Debug\sudoku practice.pdb
